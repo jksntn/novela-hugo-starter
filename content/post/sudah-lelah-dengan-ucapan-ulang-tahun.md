@@ -8,7 +8,6 @@ excerpt: Hari ini adalah hari Minggu, di mana saya, dan kebanyakan orang seperti
   melewatkan kegiatan Car Free Day karena semalamnya begadang.
 date: 2021-06-04T17:00:00+00:00
 hero: "/images/hbday-sign2.jpg"
-draft: true
 
 ---
 Hari ini adalah hari Minggu, di mana saya, dan kebanyakan orang seperti saya (maksudnya karyawan kantoran) melewatinya dengan bermalas-malasan di rumah atau kontrakan, atau kos-kosan. Seperti biasanya orang yang jomblo seperti saya ini selalu melewatkan kegiatan Car Free Day karena semalamnya begadang.
